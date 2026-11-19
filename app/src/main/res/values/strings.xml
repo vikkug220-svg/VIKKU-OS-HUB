@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VIKKU OS HUB</string>
+    <string name="accessibility_description">Runs user-configured repeated screen taps for the Auto Clicker feature.</string>
+</resources>
